@@ -7,7 +7,8 @@ Voter model and Axelrod model
 #DATA PROJECT 
 #I select project number 42, name= Public transport in UK, with score = 1.2
 
-#I classify the mode of transport in edges_data_output, as done in the article 
+#I classify the mode of transport in edges_data_output, as done in the article: 
+#Gallotti, R., Barthelemy, M. The multilayer temporal network of public transport in Great Britain. Sci Data 2, 140056 (2015). https://doi.org/10.1038/sdata.2014.56
 #0,"Air"
 #1,"Ferry"
 #2,"Rail"
